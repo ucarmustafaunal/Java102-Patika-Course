@@ -8,6 +8,9 @@ public class Main {
         //System.out.println(lordoftherings.pageNumber);
         //System.out.println(lordoftherings.name);
 
+        System.out.println(harrypotter.getName());
+        System.out.println(harrypotter.getPageNumber());
+
         System.out.println(lordoftherings.getName());
         System.out.println(lordoftherings.getPageNumber());
     }
