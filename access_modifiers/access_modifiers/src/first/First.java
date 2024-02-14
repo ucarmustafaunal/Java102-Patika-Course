@@ -1,9 +1,14 @@
 package first;
 
 public class First {
-    String str;
+    public String str;
+    //private String str;
 
-    First(String str){
+    public First(String str){
         this.str = str;
+    }
+
+    protected void showStr(){
+        System.out.println(this.str);
     }
 }
