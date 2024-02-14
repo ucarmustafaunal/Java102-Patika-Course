@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b834e61e-411d-4346-8c55-32238fa624a9" name="Changes" comment="Java 102 course starting commit">
+      <change afterPath="$PROJECT_DIR$/access_modifiers/static_keyword/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/access_modifiers/static_keyword/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/access_modifiers/static_keyword/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/access_modifiers/static_keyword/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/access_modifiers/static_keyword/src/Calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/access_modifiers/static_keyword/src/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/access_modifiers/static_keyword/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/access_modifiers/static_keyword/src/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/access_modifiers/static_keyword/static_keyword.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/access_modifiers/access_modifiers/src/first/First.java" beforeDir="false" afterPath="$PROJECT_DIR$/access_modifiers/access_modifiers/src/first/First.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/access_modifiers/access_modifiers/src/first/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/access_modifiers/access_modifiers/src/first/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/access_modifiers/access_modifiers/src/second/Second.java" beforeDir="false" afterPath="$PROJECT_DIR$/access_modifiers/access_modifiers/src/second/Second.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
