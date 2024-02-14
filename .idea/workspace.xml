@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b834e61e-411d-4346-8c55-32238fa624a9" name="Changes" comment="Java 102 course starting commit">
-      <change afterPath="$PROJECT_DIR$/access_modifiers/static_code_blocks/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/access_modifiers/static_code_blocks/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/access_modifiers/static_code_blocks/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/access_modifiers/static_code_blocks/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/access_modifiers/static_code_blocks/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/access_modifiers/static_code_blocks/src/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/access_modifiers/static_code_blocks/static_code_blocks.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/access_modifiers/final_keyword/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/access_modifiers/final_keyword/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
