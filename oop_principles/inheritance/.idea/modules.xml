@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/inheritance_and_override.iml" filepath="$PROJECT_DIR$/inheritance_and_override.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance_override_polymorphism_abstraction.iml" filepath="$PROJECT_DIR$/inheritance_override_polymorphism_abstraction.iml" />
     </modules>
   </component>
 </project>

@@ -52,4 +52,10 @@ public class Employee {
     public void launchCheck(){
         System.out.println(this.name+" is checked in at Cafeteria");
     }
+
+    public static void checkList(Employee[] checkedUsers){
+        for(Employee e : checkedUsers){
+            e.checkIn();
+        }
+    }
 }

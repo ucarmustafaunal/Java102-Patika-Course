@@ -10,6 +10,13 @@ public class Main {
         e1.checkIn("10.00");
         e1.checkIn("10.00","18.00");
         a1.checkIn();
-        a1.getTitle();
+        o1.checkIn();
+        System.out.println("---------------------------");
+        //polymorphism
+        Employee e2 = new Academician("Ünal e2","03213213322", "uu@uu.com", "Computer Science", "DM");
+        e2.checkIn();
+
+        Employee[] checkedUser = {e1,a1,o1,e2};
+        Employee.checkList(checkedUser);
     }
 }

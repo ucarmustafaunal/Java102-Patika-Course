@@ -23,4 +23,9 @@ public class Officer extends Employee{
     public void setWorkHours(String workHours) {
         this.workHours = workHours;
     }
+
+    @Override
+    public void checkIn(){
+        System.out.println(this.getName()+" is checked in at C Gate");
+    }
 }
